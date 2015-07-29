@@ -1,0 +1,16 @@
+[
+{
+  "modid": "envirofix",
+  "name": "EnviroFix",
+  "description": "A quick fix for status values reset after death on Cauldron servers using Enviromine Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TwentyOneZ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
